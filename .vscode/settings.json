@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/project-name/lib"
+    ],
+    "python.analysis.logLevel": "Trace"
+}
